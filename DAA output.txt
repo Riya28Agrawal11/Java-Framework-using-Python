@@ -1,0 +1,70 @@
+C:\Users\Swarali\PycharmProjects\DAA_assignment\venv\Scripts\python.exe C:/Users/Swarali/PycharmProjects/DAA_assignment/venv/DAA_assignment.py
+what you want to do
+1. queue
+2. stack
+3. queue using stack
+4. stack using queue
+5. List
+6. Linked list
+7. exit
+Enter choice: 1
+enqueue <value>
+dequeue
+quit
+What would you like to do? enqueue 3
+enqueue <value>
+dequeue
+quit
+What would you like to do? dequeue 
+Dequeued value:  3
+enqueue <value>
+dequeue
+quit
+What would you like to do? quit
+what you want to do
+1. queue
+2. stack
+3. queue using stack
+4. stack using queue
+5. List
+6. Linked list
+7. exit
+Enter choice: 3
+enqueue <value>
+dequeue
+quit
+What would you like to do? enqueue 5
+enqueue <value>
+dequeue
+quit
+What would you like to do? dequeue
+Dequeued element:  5
+enqueue <value>
+dequeue
+quit
+What would you like to do? quit
+what you want to do
+1. queue
+2. stack
+3. queue using stack
+4. stack using queue
+5. List
+6. Linked list
+7. exit
+Enter choice: 6
+How many elements would you like to add? 3
+Enter data item: 23 
+Enter data item: 56
+Enter data item: 78
+The linked list: 23 56 78 what you want to do
+1. queue
+2. stack
+3. queue using stack
+4. stack using queue
+5. List
+6. Linked list
+7. exit
+Enter choice: 7
+Exiting!
+
+Process finished with exit code 0
